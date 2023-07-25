@@ -2,7 +2,6 @@
 ## functions do
 
 ## Write a short comment describing this function
-
 ## the first function "makeCacheMatrix" creates a special matrix containing a function that sets the value of
 ## the matrix, gets the value of the matrix, sets the inverse of the matrix and gets the inverse of the matrix
 
